@@ -118,6 +118,186 @@
         "type": "english",
         "name": "A Mickey Mouse Cartoon",
         "link": "https://www.youtube.com/watch?v=EorJ8cEzsZo"
+    },
+    {
+        "id": 21,
+        "type": "hindi",
+        "name": "लालची चोर",
+        "link": "https://www.youtube.com/watch?v=Xkaq74ytGHE"
+    },
+    {
+        "id": 22,
+        "type": "hindi",
+        "name": "रहस्यमय मंदिर",
+        "link": "https://www.youtube.com/watch?v=QO18gWVN_dU"
+    },
+    {
+        "id": 23,
+        "type": "hindi",
+        "name": "रहस्यमय खजाना",
+        "link": "https://www.youtube.com/watch?v=qFvok9IP1Gc"
+    },
+    {
+        "id": 24,
+        "type": "hindi",
+        "name": "सात रोटी और जीन",
+        "link": "https://www.youtube.com/watch?v=FbtFpfn3dr8"
+    },
+    {
+        "id": 25,
+        "type": "hindi",
+        "name": "बांस का घर में जादुई पैसा",
+        "link": "https://www.youtube.com/watch?v=84A_tMwc84c"
+    },
+    {
+        "id": 26,
+        "type": "hindi",
+        "name": "जादुई पत्थर कि कहानी",
+        "link": "https://www.youtube.com/watch?v=Y-04NVGm7S4"
+    },
+    {
+        "id": 27,
+        "type": "hindi",
+        "name": "सेठ दामोदर और मोजो",
+        "link": "https://www.youtube.com/watch?v=8aKNOj_SbFs"
+    },
+    {
+        "id": 28,
+        "type": "hindi",
+        "name": "गरीब किसान की दुःख भरी कहानी",
+        "link": "https://www.youtube.com/watch?v=6XuxE3fdhcc"
+    },
+    {
+        "id": 29,
+        "type": "hindi",
+        "name": "Chitti Khel Raha Hai Doctor Doctor",
+        "link": "https://www.youtube.com/watch?v=RjwO-n5Q8WE"
+    },
+    {
+        "id": 30,
+        "type": "hindi",
+        "name": "Hanuman Chalisa",
+        "link": "https://www.youtube.com/watch?v=8AhgmklKFQs"
+    },
+    {
+        "id": 31,
+        "type": "arabic",
+        "name": "Alhamdulillah, Bismillah, InshaAllah",
+        "link": "https://www.youtube.com/watch?v=AwW8s_r4g4w"
+    },
+    {
+        "id": 32,
+        "type": "arabic",
+        "name": "Greatest Dad",
+        "link": "https://www.youtube.com/watch?v=Ca9tsKABhQI"
+    },
+    {
+        "id": 33,
+        "type": "arabic",
+        "name": "Islamic Songs For Kids",
+        "link": "https://www.youtube.com/watch?v=cTq7jCLqWd4"
+    },
+    {
+        "id": 34,
+        "type": "arabic",
+        "name": "Siedd x Omar & Hana",
+        "link": "https://www.youtube.com/watch?v=VP_lpuXBuBM"
+    },
+    {
+        "id": 35,
+        "type": "arabic",
+        "name": "Azaan",
+        "link": "https://www.youtube.com/watch?v=otbSVGrzls8"
+    },
+    {
+        "id": 36,
+        "type": "arabic",
+        "name": "Omar Aur Hana Milay Dada Dadi Sey",
+        "link": "https://www.youtube.com/watch?v=s8azvdfLb5Y"
+    },
+    {
+        "id": 37,
+        "type": "arabic",
+        "name": "Omar Esa - Jummah Mubarak Nasheed",
+        "link": "https://www.youtube.com/watch?v=pXna06Hv1GU"
+    },
+    {
+        "id": 38,
+        "type": "arabic",
+        "name": "Mawlaya",
+        "link": "https://www.youtube.com/watch?v=e_Vf1LGgxqc"
+    },
+    {
+        "id": 39,
+        "type": "arabic",
+        "name": "Hussain a.s. Hum Sub Key",
+        "link": "https://www.youtube.com/watch?v=gVjCAri5PEI"
+    },
+    {
+        "id": 40,
+        "type": "arabic",
+        "name": "Mola Ali Ayai Mola Ali Ayai",
+        "link": "https://www.youtube.com/watch?v=DEJ_G5LxMHk"
+    },
+    {
+        "id": 41,
+        "type": "china",
+        "name": "熊熊乐园1",
+        "link": "https://www.youtube.com/watch?v=pbewR60ech4"
+    },
+    {
+        "id": 42,
+        "type": "china",
+        "name": "风筝争夺战",
+        "link": "https://www.youtube.com/watch?v=EnjAxUW8T1M"
+    },
+    {
+        "id": 43,
+        "type": "china",
+        "name": "南一109國小生活2下-動手DoReMi",
+        "link": "https://www.youtube.com/watch?v=rJuhmDO5JIE"
+    },
+    {
+        "id": 44,
+        "type": "china",
+        "name": "打电话 | 最新儿歌童谣",
+        "link": "https://www.youtube.com/watch?v=1bpioy9StL8"
+    },
+    {
+        "id": 45,
+        "type": "china",
+        "name": "游子吟 | 最新儿歌童谣",
+        "link": "https://www.youtube.com/watch?v=1mzjorLoctI"
+    },
+    {
+        "id": 46,
+        "type": "china",
+        "name": "儿歌《大象》",
+        "link": "https://www.youtube.com/watch?v=TXGjZN_frO4"
+    },
+    {
+        "id": 47,
+        "type": "china",
+        "name": "小蓓蕾组合 - 三轮车老太太卡拉OK版",
+        "link": "https://www.youtube.com/watch?v=TpYEmzzIliU"
+    },
+    {
+        "id": 48,
+        "type": "china",
+        "name": "豬八戒吃西瓜 | 萌朵動畫故事",
+        "link": "https://www.youtube.com/watch?v=-SZ5e65p1ik"
+    },
+    {
+        "id": 49,
+        "type": "china",
+        "name": "東郭先生 | 萌朵動畫故事",
+        "link": "https://www.youtube.com/watch?v=7Xj1_rfgGnc"
+    },
+    {
+        "id": 50,
+        "type": "china",
+        "name": "小貓釣魚 | 貓弟弟為什麼釣不到魚呢",
+        "link": "https://www.youtube.com/watch?v=VOEeqa9vVk0"
     }
     
 ]
